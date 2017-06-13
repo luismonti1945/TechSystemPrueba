@@ -1,0 +1,43 @@
+.features .glyphicon{
+  font-size: 32px;
+}
+
+.footer {
+  padding: 20px 0;
+}
+body {
+  padding-top: 100px;
+ background-color: #979797;
+}
+.footer {
+  color: #9af7fe;
+}
+
+body {
+  margin-bottom: 200px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+}
+
+.footer {
+  color: #efefef;
+  background: #333;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+
+@media only screen and (Max-width: 768px) {
+  body {margin-bottom: 200px;}
+  .footer {height: 200px;}
+
+}
